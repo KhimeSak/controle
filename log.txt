@@ -5,7 +5,7 @@ Date:   Thu Nov 23 11:08:22 2023 +0100
 
     supprimer mon erreur Ajout d'azerty 
 ici je change
-deuxieme essaie
+deuxieme essaie pour distant
 
 commit 48478e0db40b73d22c9d932f780a7d6eb44ad564
 Author: KHimeche Sakina <sakina.khimeche.edu@groupe-gema.com>
