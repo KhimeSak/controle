@@ -1,1 +1,1 @@
-print("HELLO WORLD")
+print("Il fait froid aujourd’hui")
