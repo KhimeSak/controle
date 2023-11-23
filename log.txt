@@ -1,0 +1,49 @@
+$ git log
+commit 6bda2b26edbf54a1b6f268440c04d4fe9a239e80 (HEAD -> main)
+Author: KHimeche Sakina <sakina.khimeche.edu@groupe-gema.com>
+Date:   Thu Nov 23 11:08:22 2023 +0100
+
+    supprimer mon erreur Ajout d'azerty
+
+commit 48478e0db40b73d22c9d932f780a7d6eb44ad564
+Author: KHimeche Sakina <sakina.khimeche.edu@groupe-gema.com>
+Date:   Thu Nov 23 11:03:51 2023 +0100
+
+    Ajout d'azerty
+
+commit 3d3b76e45b051f95cbaa90846f77ab84b5c1c393 (origin/main, origin/HEAD)
+Author: KHimeche Sakina <sakina.khimeche.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:32:05 2023 +0100
+
+    README dans la branche hobby
+
+commit 6d4d7d46cc95d913b31952b070e7f6912de1d6f3 (meteo)
+Author: KHimeche Sakina <sakina.khimeche.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:23:11 2023 +0100
+
+    README dans la branche meteo
+:
+commit 6bda2b26edbf54a1b6f268440c04d4fe9a239e80 (HEAD -> main)
+Author: KHimeche Sakina <sakina.khimeche.edu@groupe-gema.com>
+Date:   Thu Nov 23 11:08:22 2023 +0100
+
+    supprimer mon erreur Ajout d'azerty
+
+commit 48478e0db40b73d22c9d932f780a7d6eb44ad564
+Author: KHimeche Sakina <sakina.khimeche.edu@groupe-gema.com>
+Date:   Thu Nov 23 11:03:51 2023 +0100
+
+    Ajout d'azerty
+
+commit 3d3b76e45b051f95cbaa90846f77ab84b5c1c393 (origin/main, origin/HEAD)
+Author: KHimeche Sakina <sakina.khimeche.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:32:05 2023 +0100
+
+    README dans la branche hobby
+
+commit 6d4d7d46cc95d913b31952b070e7f6912de1d6f3 (meteo)
+Author: KHimeche Sakina <sakina.khimeche.edu@groupe-gema.com>
+Date:   Thu Nov 23 10:23:11 2023 +0100
+
+    README dans la branche meteo
+:
