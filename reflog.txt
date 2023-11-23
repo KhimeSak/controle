@@ -1,0 +1,20 @@
+6c7abe7 (HEAD -> main) HEAD@{0}: commit: fichier log
+6bda2b2 HEAD@{1}: checkout: moving from tobedeleted to main
+72edff8 HEAD@{2}: commit: Ajout d'azerty
+3d3b76e (origin/main, origin/HEAD) HEAD@{3}: checkout: moving from main to tobedeleted
+6bda2b2 HEAD@{4}: commit: supprimer mon erreur Ajout d'azerty
+48478e0 HEAD@{5}: commit: Ajout d'azerty
+3d3b76e (origin/main, origin/HEAD) HEAD@{6}: reset: moving to HEAD
+3d3b76e (origin/main, origin/HEAD) HEAD@{7}: cherry-pick: README dans la branche hobby
+6d4d7d4 (meteo) HEAD@{8}: checkout: moving from hobby to main
+2753f4b (hobby) HEAD@{9}: commit: README dans la branche hobby
+2c1f472 HEAD@{10}: commit: Modification hobby
+6d4d7d4 (meteo) HEAD@{11}: checkout: moving from main to hobby
+6d4d7d4 (meteo) HEAD@{12}: merge meteo: Fast-forward
+f336de3 HEAD@{13}: checkout: moving from meteo to main
+6d4d7d4 (meteo) HEAD@{14}: commit: README dans la branche meteo
+a2b930b HEAD@{15}: commit: modification meteo
+f336de3 HEAD@{16}: checkout: moving from main to meteo
+f336de3 HEAD@{17}: commit: Hello World
+94dff0a HEAD@{18}: commit: Creation du fichier README
+8b4f3df HEAD@{19}: clone: from https://github.com/KhimeSak/controle.git
